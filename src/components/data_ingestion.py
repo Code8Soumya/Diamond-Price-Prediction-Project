@@ -35,6 +35,6 @@ class DataIngestion:
             )
 
         except Exception as e:
-            logging.info("Error occured in data ingestion config",e)
+            logging.info("Error occured in data ingestion",e)
 
 

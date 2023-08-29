@@ -1,8 +1,8 @@
+README.md
 setup.py
 Diamond_Price_Predictor.egg-info/PKG-INFO
 Diamond_Price_Predictor.egg-info/SOURCES.txt
 Diamond_Price_Predictor.egg-info/dependency_links.txt
-Diamond_Price_Predictor.egg-info/requires.txt
 Diamond_Price_Predictor.egg-info/top_level.txt
 src/__init__.py
 src/exception.py
