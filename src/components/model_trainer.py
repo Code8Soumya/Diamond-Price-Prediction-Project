@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 from src.exception import CustomException
 from src.logger import logging
-#from xgboost import XGBRegressor
 from src.utils import save_obj,evaluate_model
 from dataclasses import dataclass
 import sys,os

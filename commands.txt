@@ -1,0 +1,2 @@
+training : python src/pipelines/training_pipeline.py
+running : python .\application.py
