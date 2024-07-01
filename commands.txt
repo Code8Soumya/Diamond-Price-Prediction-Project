@@ -1,2 +1,5 @@
+cloning project : git clone https://github.com/Code8Soumya/Diamond-Price-Prediction-Project.git
+creating environment : conda create -p venv python==3.12 -y
+installing requirements : pip install -r requirements.txt
 training : python src/pipelines/training_pipeline.py
 running : python .\application.py
